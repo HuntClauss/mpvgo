@@ -1,0 +1,8 @@
+- [x] Remove memory leaks
+- [x] Implement proper error handling
+- [ ] Implement rest of API calls
+  - [x] Calls from client.h
+  - [ ] Calls from render_gl.h
+- [ ] Cleanup the code
+- [ ] Implement unit tests
+- [ ] Make docs
